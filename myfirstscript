@@ -2,7 +2,7 @@
 # read the name of the user and print hello
 #my first script
 
-echo "Maggie Muse"
+echo "user"
 
 
 
